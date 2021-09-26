@@ -22,7 +22,7 @@ p3chan@ucsd.edu
 ***Nice to meet you all! Know more about me below!***
 
 #### [Back to Top](#introduction)
-<br></br>
+
 
 
 ## **Hobbies**
@@ -42,7 +42,7 @@ Basketball
 Hong Kong Tai Mo Shan is my favorite!
 
 #### [Back to Top](#introduction)
-<br></br>
+
 
 
 ## **My Favorites**
@@ -72,7 +72,7 @@ Fun fact - I major in computer science but I don't like playing computer games.
 > Get me a salad if you want to buy me a meal haha 
 
 #### [Back to Top](#introduction)
-<br></br>
+
 
 
 ## *Places I want to travel to*
@@ -84,7 +84,7 @@ Fun fact - I major in computer science but I don't like playing computer games.
 - [ ] Grand Canyon
 
 #### [Back to Top](#introduction)
-<br></br>
+
 
 
 Link to [README.md](README.md)
