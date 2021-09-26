@@ -2,7 +2,7 @@
 
 ## **Basic Info**
 
-![Image of me](darwin_tungpingchau.png)
+![Image of me](https://darwinchan2002.github.io/week_1_lab/images/darwin_tungpingchau.jpg)
 
 ### *Name*
 Pak Hin Chan (Darwin)
@@ -33,7 +33,7 @@ Basketball
 ### *Media*
 - Photography - here's one of my favorite photos
   
-    ![One of my favorite pics](ig.png)
+    ![One of my favorite pics](https://darwinchan2002.github.io/week_1_lab/images/ig.JPG)
 - Videography
 - A cappella - bass and beatbox!!!
 > They are universal language for the whole world!
