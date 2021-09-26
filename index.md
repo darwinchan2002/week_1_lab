@@ -32,7 +32,7 @@ Basketball
 ### *Media*
 - Photography - here's one of my favorite photos
   
-    ![One of my favorite pics](images/ig.jpg)
+    ![One of my favorite pics](images/ig.JPG)
 - Videography
 - A cappella - bass and beatbox!!!
 > They are universal language for the whole world!
